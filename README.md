@@ -1,5 +1,6 @@
+EASTER_EGG_URLS
 # HTMLAnalyzer
- 
+
 Código desenvolvido para o desafio da Axur
 
 ## Paar compilar:
